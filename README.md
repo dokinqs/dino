@@ -3,6 +3,7 @@
 Google's 404 page dinosaur runner
 
 Hack: Keep running forever, although score resets to 0 after 999,999
+
 Change speed if you want
 
 <img width="450" alt="dino1" src="https://user-images.githubusercontent.com/22225317/34451605-0b7b8d30-ecf9-11e7-9a01-00aaac927edf.png">
