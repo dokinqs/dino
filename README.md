@@ -1,8 +1,10 @@
 # Simple Game - Console Manipulation
 
+Just 2 lines of code to become invincible
+
 Google's 404 page dinosaur runner
 
-Hack: Keep running forever, although score resets to 0 after 999,999
+Keep running forever, although score resets to 0 after 999,999
 
 Change speed if you want
 
